@@ -1,0 +1,33 @@
+button {
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.red {
+    background-color: #ff0000;
+    color: #fff;
+}
+
+.blue {
+    background-color: #0000ff;
+    color: #fff;
+}
+
+.green {
+    background-color: #00ff00;
+    color: #fff;
+}
+
+.yellow {
+    background-color: #ffff00;
+    color: #000;
+}
+
+.purple {
+    background-color: #800080;
+    color: #fff;
+}
